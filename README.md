@@ -116,5 +116,6 @@ python app.py
     ECR_REPOSITORY_NAME = simple-app
 
 
-### Code with joy, Inspire others to code with joy.
+#### Code with Joy, 
+#### Inspire others to code with Joy.
 
